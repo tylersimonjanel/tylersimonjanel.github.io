@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+	 <meta charset="UTF-8">
+    <title>Long Shadow Icons</title>
+        <link rel="stylesheet" href="css/style.css">
+
+    
+	<title>Bootstrap slider</title>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="Made with WOW Slider - Create beautiful, responsive image sliders in a few clicks. Awesome skins and animations. Bootstrap slider" />
+	
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine1/style.css" />
+	<script type="text/javascript" src="engine1/jquery.js"></script>
+	<!-- End WOWSlider.com HEAD section -->
+
+
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	</script-->
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	</script-->
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine4/style.css" />
+	<!--script type="text/javascript" src="engine4/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section --></head>
+<body style="background-color:#d7d7d7;margin:auto">
+
+	<div align= "center" style="border:5px solid blue">
+	
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container4">
+	<div class="ws_images"><ul>
+		<li><img src="data4/images/blacklives.jpg" alt="blacklives" title="blacklives" id="wows4_0"/></li>
+		<li><img src="data4/images/blacklives2.jpg" alt="blacklives2" title="blacklives2" id="wows4_1"/></li>
+		<li><img src="data4/images/immigration.jpg" alt="immigration" title="immigration" id="wows4_2"/></li>
+		<li><img src="data4/images/mainstory.jpg" alt="main-story" title="main-story" id="wows4_3"/></li>
+		<li><img src="data4/images/mikebw.jpg" alt="mikebw" title="mikebw" id="wows4_4"/></li>
+		<li><img src="data4/images/occupy2.jpg" alt="occupy2" title="occupy2" id="wows4_5"/></li>
+		<li><img src="data4/images/p2thepeople.jpg" alt="p2thepeople" title="p2thepeople" id="wows4_6"/></li>
+		<li><a href="http://wowslider.com"><img src="data4/images/trayvon.jpg" alt="jquery image gallery" title="trayvon" id="wows4_7"/></a></li>
+		<li><img src="data4/images/occupy.jpg" alt="occupy" title="occupy" id="wows4_8"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="blacklives"><span><img src="data4/tooltips/blacklives.jpg" alt="blacklives"/>1</span></a>
+		<a href="#" title="blacklives2"><span><img src="data4/tooltips/blacklives2.jpg" alt="blacklives2"/>2</span></a>
+		<a href="#" title="immigration"><span><img src="data4/tooltips/immigration.jpg" alt="immigration"/>3</span></a>
+		<a href="#" title="main-story"><span><img src="data4/tooltips/mainstory.jpg" alt="main-story"/>4</span></a>
+		<a href="#" title="mikebw"><span><img src="data4/tooltips/mikebw.jpg" alt="mikebw"/>5</span></a>
+		<a href="#" title="occupy2"><span><img src="data4/tooltips/occupy2.jpg" alt="occupy2"/>6</span></a>
+		<a href="#" title="p2thepeople"><span><img src="data4/tooltips/p2thepeople.jpg" alt="p2thepeople"/>7</span></a>
+		<a href="#" title="trayvon"><span><img src="data4/tooltips/trayvon.jpg" alt="trayvon"/>8</span></a>
+		<a href="#" title="occupy"><span><img src="data4/tooltips/occupy.jpg" alt="occupy"/>9</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.com">javascript slideshow</a> by WOWSlider.com v8.2</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine4/wowslider.js"></script>
+	<script type="text/javascript" src="engine4/script.js"></script>
+	<!-- End WOWSlider.com BODY section --><font size="24"> What Are You Interested In? </font>
+	</div>	
+
+	 <!-- add to the <body> of your page -->
+	<!-- End WOWSlider.com BODY section -->
+
+
+    <div class="wrapper">
+  <div class="social">&#62220;</div>
+  <div class="social">&#62217;</div>
+  <div class="social">&#62223;</div>
+  <div class="social">&#62232;</div>
+  <div class="social">&#62235;</div>
+  <div class="social">&#62226;</div>
+  <div class="social">&#62214;</div>
+</div>
+</body>
+</html>
